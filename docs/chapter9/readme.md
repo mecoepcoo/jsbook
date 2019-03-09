@@ -1,0 +1,1 @@
+本章介绍异步编程，事件，setTimeout，setInterval，promise，async，await等
